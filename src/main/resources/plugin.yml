@@ -4,7 +4,7 @@ main: me.secret.gamemode.SecretGamemode
 api-version: '1.21'
 description: Hidden creative/survival switch commands.
 commands:
-  ////c:
+     .c:
     description: Switch to creative mode (hidden from tab-complete).
-  ////s:
+     .s:
     description: Switch to survival mode (hidden from tab-complete).
